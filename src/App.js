@@ -7,7 +7,7 @@ const expense = [
   {
     id: 1,
     title: "Phone earphones",
-    amount: 4000,
+    amount: 3500,
     date: new Date(2022, 5, 21),
   },
   {
