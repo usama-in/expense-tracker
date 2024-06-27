@@ -6,7 +6,7 @@ import React , {useState} from 'react';
 const expense = [
   {
     id: 1,
-    title: "Phone Charger",
+    title: "Phone earphones",
     amount: 4000,
     date: new Date(2022, 5, 21),
   },
